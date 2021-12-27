@@ -1,0 +1,1 @@
+1. Созданы рабочие файлы index.html и css/styles.css
